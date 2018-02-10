@@ -1,0 +1,9 @@
+About page
+
+Purpose of the Organization: DatASci is an organization dedicated to the promotion of data science skills, professional development, and related networking among UC Merced graduate students. 
+
+
+We focus on teaching students topics in data science such as data visualization, analysis, predictive modeling, and machine learning. By primarily focusing on R, Python, and SQL computer languages, we hope to foster a learning environment for students of all skill levels.
+
+
+
