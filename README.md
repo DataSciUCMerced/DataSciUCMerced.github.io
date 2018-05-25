@@ -1,2 +1,2 @@
-# DataSciUCM.github.io
+# DataSciUCMerced.github.io
 main page
