@@ -296,7 +296,7 @@ ul li {
 
 .carousel {
 	width: 94%;
-	height: 800px;
+	height: auto;
 	margin: auto;
 }
 .item, .active, .carousel-inner {
@@ -512,7 +512,7 @@ ul li {
 	margin: 0 2px;
 }
 /* ------------------------------------------------------------------------------
-	 Work Detail 
+	 Work Detail
 -------------------------------------------------------------------------------*/
 
 .work-detail {
